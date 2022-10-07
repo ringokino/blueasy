@@ -69,3 +69,45 @@ body{
     background-color: deepskyblue;
     padding: 0;
 }
+.boiteImage{
+    height: 25vh;
+}
+.image{
+height: 100%;
+width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.image1{
+    background-image: url("images/portfolio/1.png");
+
+}.image2{
+     background-image: url("images/portfolio/2.png");
+ }
+
+
+.image3{
+     background-image: url("images/portfolio/3.png");
+ }
+
+.image4{
+     background-image: url("images/portfolio/4.png");
+ }
+
+.image5{
+     background-image: url("images/portfolio/5.png");
+ }
+
+.image6{
+     background-image: url("images/portfolio/6.png");
+ }
+
+.image7{
+     background-image: url("images/portfolio/7.png");
+ }
+
+.image8{
+     background-image: url("images/portfolio/8.png");
+ }
