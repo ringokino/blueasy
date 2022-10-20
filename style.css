@@ -1,54 +1,56 @@
-.ble{
-    height: 100vh;
-    background-image: linear-gradient(white,white),url('images/HERO.jpg');
-    padding: 0;
-    background-blend-mode: saturation;
+.background {
+	height: 100vh;
+	background-image: url("HERO.jpg");
+	padding: 0;
 }
-
-.navigation{
-    height: 20%;
-    background-color: rgba(0, 0, 0, 0.441);
+.navigation {
+	height: 20%;
+	background-color: rgba(0, 0, 0, 0.441);
 }
-.boitePunchline{
-    height: 80%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-
+.Punchlinebox {
+	height: 80%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
 }
-.elementsNav{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 100%;
+.elementsNav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100%;
 }
-.logo{
-    font-weight: bolder;
-    color: white;
-    font-size: 2rem;
-    text-transform: uppercase;
+.logo {
+	font-weight: bolder;
+	color: white;
+	font-size: 2rem;
+	text-transform: uppercase;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.lien{
-    margin: 5px;
-    color: white;
-    text-transform: uppercase;
-    font-size: 1.6rem;
-    text-decoration: none;
-    padding: 4px;
-    font-weight: bolder;
+.link {
+	margin: 5px;
+	color: white;
+	text-transform: uppercase;
+	font-size: 1.6rem;
+	text-decoration: none;
+	padding: 4px;
+	font-weight: bolder;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-.bordureBleue{
-    border: solid 2px aqua;
+.blueborder {
+	border: solid 2px aqua;
 }
-.eBleu{
-    color: aqua;
+.eblue {
+	color: aqua;
 }
-.punchline{
-    
-    color: white;
-    background-color: rgba(0, 0, 0, 0.441);
-    font-size: 3rem;
-    padding:4px;
-    margin-top: 4px;
+.punchline {
+	color: white;
+	background-color: rgba(0, 0, 0, 0.441);
+	font-size: 3rem;
+	padding: 4px;
+	margin-top: 4px;
+}
+.Services{
+    background-color: #4BCAFF;
+    height: 35%;
 }
