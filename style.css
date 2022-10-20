@@ -52,5 +52,39 @@
 }
 .Services{
     background-color: #4BCAFF;
-    height: 35%;
+    height: 497px;
+
+}
+.Portfolio {
+    background-color: white;
+    height: 634px;
+
+}
+
+.Default{
+    background-color: #515F67 ;
+    height: 535px;
+
+}
+
+.Twitter{
+    background-color: #4BCAFF;
+    height: 251px;
+}
+
+.Who{ 
+    background-color: #8CB3D7 ;
+    height: 408px;
+}
+.Testimonial{
+    background-color: white;
+    height: 329px;
+}
+.Contact{
+    background-color:#8CB3D7  ;
+    height: 667px;
+}
+.Backpage{
+    background-color: #515F67 ;
+    height: 133px;
 }
