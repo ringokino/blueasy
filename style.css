@@ -1,0 +1,53 @@
+.ble{
+    height: 100vh;
+    background-image: url('images/HERO.jpg');
+    padding: 0;
+}
+
+.navigation{
+    height: 20%;
+    background-color: rgba(0, 0, 0, 0.441);
+}
+.boitePunchline{
+    height: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.elementsNav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.logo{
+    font-weight: bolder;
+    color: white;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+.lien{
+    margin: 5px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.6rem;
+    text-decoration: none;
+    padding: 4px;
+    font-weight: bolder;
+}
+.bordureBleue{
+    border: solid 2px aqua;
+}
+.eBleu{
+    color: aqua;
+}
+.punchline{
+    
+    color: white;
+    background-color: rgba(0, 0, 0, 0.441);
+    font-size: 3rem;
+    padding:4px;
+    margin-top: 4px;
+}
