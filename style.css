@@ -1,7 +1,8 @@
 .ble{
     height: 100vh;
-    background-image: url('images/HERO.jpg');
+    background-image: linear-gradient(white,white),url('images/HERO.jpg');
     padding: 0;
+    background-blend-mode: saturation;
 }
 
 .navigation{
